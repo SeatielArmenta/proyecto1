@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto1
 {
-    class Class1
+    class Administracion
     {
     }
 }
