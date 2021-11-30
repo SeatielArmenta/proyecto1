@@ -15,6 +15,6 @@ namespace Proyecto1
         public int NumeroDeCliente { get => numeroDeCliente; set => numeroDeCliente = value; }
         public double Saldo { get => saldo; set => saldo = value; }
 
-        //HOLA QUE TAL
+        //HOLA QUE TAL AAAAAA
     }
 }
