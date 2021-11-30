@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Administracion.cs" />
+    <Compile Include="Cajero.cs" />
     <Compile Include="Clientes.cs" />
     <Compile Include="Cuentas.cs" />
     <Compile Include="Form1.cs">
